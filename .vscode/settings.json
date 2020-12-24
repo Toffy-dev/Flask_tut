@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "d:\\Projekty\\Python\\Flask_tut\\base\\Scripts\\python.exe"
+    "python.pythonPath": "d:\\Projekty\\Python\\Flask_tut\\base\\Scripts\\python.exe",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint-flask"]
 }
